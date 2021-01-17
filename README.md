@@ -33,6 +33,8 @@ tomcat.txt
 unsorted_1.txt
 wordpress.fuzz.txt
 ws-dirs.txt
+
+=====================================Not Included, Use Seprate===============================
 all.txt
 httparchive_directories_1m_2020_11_18    (From assetsnote)
 
