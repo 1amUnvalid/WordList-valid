@@ -33,3 +33,8 @@ tomcat.txt
 unsorted_1.txt
 wordpress.fuzz.txt
 ws-dirs.txt
+all.txt
+httparchive_directories_1m_2020_11_18    (From assetsnote)
+
+
+Thanks to the above list of users who created and shared their wordlist.
